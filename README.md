@@ -1,5 +1,6 @@
-# cho_sooa_MIDTERMS
-1054 Midterm
+nikole_branch
+## Are Dogs better than Cats?
 
-# Installation Intructions
-Adding text to cause a conflict - you need to modify this text Sooa
+[Image of a cat and a dog](images/cat_and_dog_1.jpg)
+
+I'm going to discuss whether dogs are better than cats.
